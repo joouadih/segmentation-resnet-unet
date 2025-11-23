@@ -254,7 +254,7 @@ This project was inspired by and builds upon existing work in semantic segmentat
 - **UNet for Building Segmentation (PyTorch)**: [Kaggle - UNet for Building Segmentation](https://www.kaggle.com/code/balraj98/unet-for-building-segmentation-pytorch)
 - Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation
 - He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition
-- Massachusetts Buildings Dataset: [University of Massachusetts - Computer Vision Lab](http://www.cs.toronto.edu/~vmnih/docs/Teledyne_ISPRS_Paper.pdf)
+- Massachusetts Buildings Dataset: [University of Massachusetts - Computer Vision Lab](https://www.kaggle.com/datasets/balraj98/massachusetts-buildings-dataset)
 
 ---
 
