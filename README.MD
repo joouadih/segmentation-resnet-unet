@@ -232,19 +232,6 @@ Install all dependencies:
 ```bash
 pip install tensorflow>=2.5 opencv-python numpy matplotlib scikit-learn
 ```
-
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -m 'Add improvement'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
 ---
 
 ## Inspiration / References
